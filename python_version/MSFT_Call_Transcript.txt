@@ -1,0 +1,9 @@
+Mastering Cloud Complexity Remains a Challenge, Finds New EPAM Continuum Report
+
+To fully exploit the cloud and achieve the highest return on investment, a fine balance is needed to deploy a vast amount of moving parts in a continuously evolving process.
+
+NEWTOWN, PA, USA, May 11, 2023 – Cloud computing has driven, and continues to drive, a paradigm shift for enterprise IT. Mastering the cloud became essential for businesses … but what does that mean and how can it be achieved? In a recent report titled ‘From Taming Cloud Complexity to Achieving Cloud Mastery,’ EPAM Continuum, the integrated business, technology and experience consulting practice of EPAM Systems, Inc. (NYSE: EPAM), answers the most pressing questions on the topic and reveals how to achieve the ultimate goal, mastering cloud complexity.
+
+Access the Full Report Here
+
+“The roadmap to Cloud is not complicated, but it is far more complex compared to traditional IT. We found that some approaches don't lead to sustainable cloud transformation, which was one of the driving forces why we created this report,” said Miha Kralj, VP of Cloud Strategy at EPAM. “We expanded on the idea that it is possible to tame the complexity of the cloud and took it a step further and validated that by explaining how organizations can achieve a level of mastery within your cloud ecosystem. And by mastery, we don't mean a final destination, but rather a constant journey.”
